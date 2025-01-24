@@ -6,7 +6,7 @@ Based on data from the [Free Exercise DB 💪](https://github.com/yuhonas/free-e
 
 ```console
 coko7@example:~$ sueur -h
-Efficiently query workout exercices
+Efficiently query workout exercises
 
 Usage: sueur [OPTIONS] <COMMAND>
 
